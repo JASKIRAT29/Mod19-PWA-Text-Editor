@@ -38,4 +38,4 @@ MIT License
 ## Credits
 Completed by Jaskirat
 ## Questions
-Please contact me JASKIRAT29 or email me at jaskratkr@gmail.com
+Please contact me JASKIRAT29 or email me at jaskiratkr@gmail.com
