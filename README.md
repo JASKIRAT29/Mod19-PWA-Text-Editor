@@ -33,11 +33,8 @@ npm start
 ## Tools
 - Webpack
 - express.js
-- babel-loader
-- css-loader
-- style-loader
-- html-webpack-plugin 
-- webpack-pwa-manifest
+- Nodemon
+- Concurrently
 
 ## License
 MIT License
